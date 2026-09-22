@@ -1,4 +1,4 @@
-# Lab 01 — Enable Virtualization on HP Laptop
+# Lab 01a — Enable Virtualization on HP Laptop
 
 ## Objective
 
