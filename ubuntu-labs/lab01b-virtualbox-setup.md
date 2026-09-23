@@ -23,9 +23,17 @@ Install Oracle VirtualBox and create the first Ubuntu Server virtual machine for
 
 ## Screenshots
 
-* VirtualBox Manager
-* Memory Configuration
-* Network Configuration
+VM created and visible in VirtualBox Manager:
+
+![VirtualBox Manager showing NW-Ubuntu-Server VM](../screenshots/virtualbox-manager.PNG)
+
+Memory allocation configured:
+
+![VM memory allocation settings](../screenshots/ubuntu-memory-settings.PNG)
+
+Network adapter set to NAT:
+
+![VM network adapter settings](../screenshots/ubuntu-network-settings.PNG)
 
 ## Notes
 

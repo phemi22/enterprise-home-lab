@@ -25,6 +25,26 @@ Install Ubuntu Server 24.04 LTS inside Oracle VirtualBox and prepare it for Linu
 | Username | femi |
 | OpenSSH Server | Installed |
 
+Confirmed the VM's memory and network settings before installation:
+
+![VM memory allocation settings](../screenshots/ubuntu-memory-settings.PNG)
+
+![VM network adapter settings](../screenshots/ubuntu-network-settings.PNG)
+
+## Installation and First Login
+
+After completing the installer, the system rebooted to the login prompt:
+
+![Ubuntu Server login prompt after install](../screenshots/ubuntu-login.PNG)
+
+Logged in successfully for the first time:
+
+![First successful login to Ubuntu Server](../screenshots/ubuntu-first-login.PNG)
+
+Confirmed the server hostname was set correctly:
+
+![Setting the server hostname](../screenshots/ubuntu-hostname-ctl.PNG)
+
 ## First Commands Executed
 
 ```bash
@@ -35,6 +55,14 @@ ls
 sudo apt update
 sudo apt upgrade -y
 ```
+
+Ran the update and upgrade to bring the system current:
+
+![Running apt update and upgrade](../screenshots/ubuntu-apt-update.PNG)
+
+Confirmed OpenSSH was installed and running, enabling future remote access:
+
+![Confirming OpenSSH service is running](../screenshots/ubuntu-openssh-running.PNG)
 
 ## Results
 
