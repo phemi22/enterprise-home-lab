@@ -45,6 +45,14 @@ The goal is to gain practical experience similar to an entry-level IT Support Te
 * Organizational Units
 * Password Policies
 
+### Docker Lab (Ubuntu Server)
+
+- Installed Docker Engine on Ubuntu Server 24.04 LTS.
+- Pulled the official Nginx image.
+- Ran an Nginx container with port mapping (8080:80).
+- Verified connectivity from Windows host.
+- Practiced container lifecycle commands.
+
 ### Help Desk Tickets
 
 Enterprise troubleshooting scenarios documented in professional ticket format.
@@ -60,8 +68,4 @@ Enterprise troubleshooting scenarios documented in professional ticket format.
 * Git & GitHub
 * VS Code
 
----
 
-## Status
-
-**Lab 1 — Ubuntu Server Installation (In Progress)**
